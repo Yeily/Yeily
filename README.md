@@ -64,4 +64,4 @@
 
 
 
-<p>Estaría de más mencionar que también puedo tener conocimientos en otras áreas no tan relevantes en la actualidad y por eso no son mencionadas.</p>
+<p>Estaría de más indicar que también puedo tener conocimientos en otras áreas no tan relevantes en la actualidad y por eso no son mencionadas.</p>
