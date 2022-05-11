@@ -43,14 +43,9 @@
       <li>Tailwind</li>
       <li>Bootstrap</li>
     </ul>
-  <li>Servidores Web en ambientes Linux</li>
+  <li>Servidores Web</li>
     <ul>
       <li>Ubuntu Server</li>
-    </ul>
-  <li>CSS</li>
-    <ul>
-      <li>Tailwind</li>
-      <li>Bootstrap</li>
     </ul>
   <li>Azure</li>
     <ul>
