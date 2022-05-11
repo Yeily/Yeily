@@ -47,6 +47,21 @@
     <ul>
       <li>Ubuntu Server</li>
     </ul>
+  <li>CSS</li>
+    <ul>
+      <li>Tailwind</li>
+      <li>Bootstrap</li>
+    </ul>
+  <li>Azure</li>
+    <ul>
+      <li>Respaldos</li>
+      <li>VPN</li>
+      <li>Servidores</li>
+      <li>Web Apps</li>
+      <li>Conectores</li>
+    </ul>
 </ul>
+</ul>
+
 
 <p>Estaría de más mencionar que los conocimientos antes dichos son puros, por lo que me será fácil aprender cualquier framework o biblioteca hecha en cualquiera de esos lenguajes o tecnologías.</p>
