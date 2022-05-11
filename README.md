@@ -61,7 +61,7 @@
       <li>Conectores</li>
     </ul>
 </ul>
-</ul>
 
 
-<p>Estaría de más mencionar que los conocimientos antes dichos son puros, por lo que me será fácil aprender cualquier framework o biblioteca hecha en cualquiera de esos lenguajes o tecnologías.</p>
+
+<p>Estaría de más mencionar que también puedo tener conocimientos en otras áreas no tan relevantes en la actualidad y por eso no son mencionadas.</p>
