@@ -2,7 +2,7 @@
 
 <p>La programación es mi hobbie, no lo debo tomar a la ligera y trabajar programando lo arruina.</p>
 
-<h2>Conocimientos:</h2>
+<h2>Principales conocimientos:</h2>
 <ul>
   <li>C#</li>
   <li>PHP</li>
