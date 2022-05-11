@@ -49,4 +49,4 @@
     </ul>
 </ul>
 
-<p>Estaría de más mencionar que los conocimientos antes dichos son puros, por lo que me será fácil aprender cualquier framework o biblioteca hecha en cuanquiera de esos lenguajes.</p>
+<p>Estaría de más mencionar que los conocimientos antes dichos son puros, por lo que me será fácil aprender cualquier framework o biblioteca hecha en cualquiera de esos lenguajes o tecnologías.</p>
