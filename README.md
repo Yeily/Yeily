@@ -39,8 +39,9 @@
       <li>XAML</li>
       <li>XHTML</li>
     </ul>
-  <li>CSS</li>
+  <li>Estilos</li>
     <ul>
+      <li>CSS puro</li>
       <li>Tailwind</li>
       <li>Bootstrap</li>
     </ul>
