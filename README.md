@@ -11,17 +11,16 @@
     </ul>
   <li>PHP</li>
     <ul>
-      <li>Puro</li>
       <li>Laravel</li>
     </ul>
   <li>Java</li>
     <ul>
-      <li>Java</li>
+      <li>NetBeans</li>
       <li>Android Studio</li>
     </ul>
   <li>Javascript</li>
     <ul>
-      <li>Puro</li>
+      <li>Vainilla</li>
       <li>Vue</li>
       <li>Angular</li>
       <li>React</li>
@@ -41,7 +40,7 @@
     </ul>
   <li>Estilos</li>
     <ul>
-      <li>CSS puro</li>
+      <li>CSS</li>
       <li>Tailwind</li>
       <li>Bootstrap</li>
     </ul>
